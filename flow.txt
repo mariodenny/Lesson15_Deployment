@@ -1,0 +1,5 @@
+User buka website,cek daftar film di index(home)
+:databse -> nama user, film, tanggal, harga tiket, nomor kursi
+user bisa pesan tike di menu tiket (/tiket)
+user bisa cek jadwal di menu schedule(/schedule)
+database : film, tanggal_tayang,jam,poster
